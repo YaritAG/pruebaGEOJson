@@ -47,7 +47,7 @@ Para resolverlo, cambiamos el servidor del mapa base a **CartoDB Voyager**. Es u
 
 ---
 
-### 🏁 Finalización
+### Finalización
 Al final, el proyecto quedó con un flujo sólido:
 1. **Conversión:** De metros a grados con Mapshaper.
 2. **Programación:** Carga asíncrona con `fetch` y auto-enfoque con `fitBounds`.
